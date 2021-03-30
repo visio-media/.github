@@ -6,9 +6,9 @@ link to ticket if one exists
 include dependency changes
 
 ### Dependencies
-requires \[other PR\]
+requires [other PR]
 
-required by \[other PR\]
+required by [other PR]
 
 ### Screenshots
 for visual changes
