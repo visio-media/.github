@@ -5,6 +5,11 @@ link to ticket if one exists
 ### Description of changes
 include dependency changes
 
+### Dependencies
+requires [other PR]
+
+required by [other PR]
+
 ### Screenshots
 for visual changes
 
